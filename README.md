@@ -71,3 +71,8 @@ These complementary data are required to run pypsa-reunion and should be downloa
 Climate data are not all available on the repository. Indeed, a lot of the data used come from the BRIO¹ project (*Building Resilience in the Indian Ocean*). If you need more data, feel free to contact A. François: *agnes.francois@yahoo.fr*.
 
 <small>1: Marie-Dominique Leroux, François Bonnardot, Stephason François Kotomangazafy, Abdoul-Oikil Said, Philippe Veerabadren, et al.. Régionalisation du changement climatique et développement de services climatiques dans le sud-ouest de l'océan Indien et ses territoires insulaires. METEO FRANCE. 2023. ⟨hal-03966983v7⟩</small>
+
+# Related publications
+- Agnès Francois. Modélisation et optimisation de réseaux électriques insulaires à moyen et long terme : étude de l'impact de l'intégration de l'hydrogène à La Réunion - application aux mobilités et au stockage réseau. Autre. Université Bourgogne Franche-Comté, 2024. Français. ⟨NNT : 2024UBFCA011⟩. ⟨tel-04894923⟩. https://theses.fr/2024UBFCA011
+- François, A., Roche, R., Grondin, D., Winckel, N., & Benne, M. (2024). Investigating the use of hydrogen and battery electric vehicles for public transport: A technical, economical and environmental assessment. Applied Energy, 375, 124143. https://doi.org/10.1016/j.apenergy.2024.124143
+- François, A., Roche, R., Grondin, D., & Benne, M. (2023). Assessment of medium and long term scenarios for the electrical autonomy in island territories: The Reunion Island case study. Renewable Energy, 216, 119093. https://doi.org/10.1016/j.renene.2023.119093
