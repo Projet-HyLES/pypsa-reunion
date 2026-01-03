@@ -68,7 +68,7 @@ The following data files are used in the code :
 These complementary data are required to run pypsa-reunion and should be downloaded : https://zenodo.org/records/17149940?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY3YWI1OGZjLTEwMTUtNDgwMS05ZTlkLTY0MzQzMTUyZTIzOSIsImRhdGEiOnt9LCJyYW5kb20iOiIzODJlNDRlNmVjZGNkZjJkYTMxODViYjljYTE1MDNmZCJ9.ZC8xpnOw8MvV7nuCof1MQB3gCptgYxLpAcuCNTzzGjY6dK03IGRIZbij5dLs8yAwogSpzhLdMcMyy_SFvO-BZw
 
 # Remarks
-Climate data are not all available on the repository. Indeed, a lot of the data used come from the BRIO¹ project (*Building Resilience in the Indian Ocean*). If you need more data, feel free to contact A. François: *agnes.francois@yahoo.fr*.
+Climate data are not all available on the repository. Indeed, a lot of the data used come from the BRIO¹ project (*Building Resilience in the Indian Ocean*). If you need more data, feel free to contact A. François.
 
 <small>1: Marie-Dominique Leroux, François Bonnardot, Stephason François Kotomangazafy, Abdoul-Oikil Said, Philippe Veerabadren, et al.. Régionalisation du changement climatique et développement de services climatiques dans le sud-ouest de l'océan Indien et ses territoires insulaires. METEO FRANCE. 2023. ⟨hal-03966983v7⟩</small>
 
