@@ -72,7 +72,7 @@ def import_from_excel_folder(path, year):
     lines = lines.fillna('')
 
     print("INFO: data from files data.xlsx, postes-sources.csv, {}, htb_souter.csv and htb_aer.csv imported."
-          .format("registre-des-installations-de-production-et-de-stockage-" + str(year) + "-" + str(scena_prod) + ".csv"))
+          .format("power_facilities-" + str(year) + "-" + str(scena_prod) + ".csv"))
     return components, lines
 
 
