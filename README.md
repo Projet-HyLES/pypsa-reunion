@@ -50,7 +50,7 @@ The following data files are used in the code :
     - Storage : technical and economic data for additional storage (batteries, hydrogen)
     - Units
 - *postes-sources.csv*: substation data for the power grid. Must contain at least the following information: name, coordinates, presence of transformer, voltage.
-- *registre-des-installations-de-production-et-de-stockage.csv*: data on electricity generation facilities. Must contain at least the following information: substation, type, power in kW.
+- *power_facilities-20X0-XX.csv*: data on electricity generation facilities. Must contain at least the following information: substation, type, power in kW.
 - *htb_souter.csv* and *htb_aer.csv*: grid power line data. Must contain at least the following information: line name, length in km, permissible capacity in MVA.
 - *T_30_1.csv*: time series of temperature at source stations according to target horizon and chosen climate change scenario.
 - *wind_data.csv*: wind speed time series.
